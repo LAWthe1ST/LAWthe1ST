@@ -45,14 +45,13 @@ My journey in life has led me to develop a passion for cybersecurity, and I am n
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<a href="![Security+ - Copy](https://github.com/LAWthe1ST/LAWthe1ST/assets/147088432/24b304d3-8c26-4c31-9c3f-b3fbcd782d9b)
-"><img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" />
+<a href="![Security+](https://github.com/LAWthe1ST/LAWthe1ST/assets/147088432/6503898e-1f15-4e4f-913f-65f62afda8c9)"><img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
-<img src="![Security+ - Copy](https://github.com/LAWthe1ST/LAWthe1ST/assets/147088432/467db963-d742-426e-9f20-0725c6c350a6)">
+
 
 ## Projects
 - Detection Lab
