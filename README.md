@@ -54,4 +54,4 @@ My journey in life has led me to develop a passion for cybersecurity, and I am n
 
 ## Projects
 - Detection Lab
-- SOC Automation Project <a href="https://app.diagrams.net/#HLAWthe1ST%2FLAWthe1ST%2Fmain%2FSOC%20Automation%20Project#%7B%22pageId%22%3A%22VjKylBn-kq3C96n3sAQJ%22%7D"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- SOC Automation Project <a href="file:///C:/Users/simmo/Downloads/SOC%20Automation%20Project.pdf"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
