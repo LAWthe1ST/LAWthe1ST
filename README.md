@@ -45,7 +45,7 @@ My journey in life has led me to develop a passion for cybersecurity, and I am n
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<a href="https://www.certmetrics.com/comptia/electronic_certificate.aspx?cert=354C5D30669957E8394E7F1813E7E498O1265136DF7F21ACC98FF65C8E0A4DAF1"><img src="!SecurityPlus Logo Certified CE" />
+<a href="https://www.certmetrics.com/comptia/electronic_certificate.aspx?cert=354C5D30669957E8394E7F1813E7E498O1265136DF7F21ACC98FF65C8E0A4DAF1"><img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
